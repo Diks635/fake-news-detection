@@ -1,0 +1,6 @@
+data/
+model/
+*.csv
+*.safetensors
+__pycache__/
+.venv/
